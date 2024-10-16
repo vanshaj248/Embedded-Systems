@@ -51,7 +51,7 @@ Creating functional prototypes is a key part of the embedded system design proce
 
 ## Contact
 You can connect with me on:
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/vanshajshah)
+- LinkedIn: [Your LinkedIn]([www.linkedin.com/in/vanshajshah](https://www.linkedin.com/in/vanshajshah/))
 - GitHub: [Your GitHub](https://github.com/vanshaj248)
 
 ---
