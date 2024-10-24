@@ -105,24 +105,7 @@
 
 ---
 
-## 7. Li-Fi Communication System
-
-### Components Needed
-
-- LED (for transmission)
-- Photodiode or Light Sensor (for reception)
-- Microcontroller (e.g., Arduino, ESP32)
-- Amplifier and Filter circuits (for signal modulation/demodulation)
-
-### How to Build
-
-- Modulate data signals using light (via LED) and transmit them through the air.
-- Use a photodiode to receive and demodulate the signals.
-- Program the microcontroller to encode and decode data in real-time.
-
----
-
-## 8. Advanced GPS Tracking System
+## 7. Advanced GPS Tracking System
 
 ### Components Needed
 
@@ -139,7 +122,7 @@
 
 ---
 
-## 9. Edge Computing for IoT Data Analysis
+## 8. Edge Computing for IoT Data Analysis
 
 ### Components Needed
 
@@ -156,7 +139,7 @@
 
 ---
 
-## 10. Real-Time Embedded Neural Network Accelerator
+## 9. Real-Time Embedded Neural Network Accelerator
 
 ### Components Needed
 
@@ -173,7 +156,7 @@
 
 ---
 
-## 11. DIY Flipper Zero
+## 10. DIY Flipper Zero
 
 ### Components Needed
 
@@ -193,7 +176,7 @@
 
 ---
 
-## 12. DIY Power Bank Using Old Laptop Battery
+## 11. DIY Power Bank Using Old Laptop Battery
 
 ### Components Needed
 
@@ -212,7 +195,7 @@
 
 ---
 
-## 13. DIY NAS Server with Display and Linux Dev Environment
+## 12. DIY NAS Server with Display and Linux Dev Environment
 
 ### Components Needed
 
