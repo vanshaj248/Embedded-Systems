@@ -71,24 +71,7 @@
 
 ---
 
-## 5. Automotive CAN Bus Diagnostics System
-
-### Components Needed
-
-- Microcontroller with CAN support (e.g., STM32F4)
-- CAN Transceiver (MCP2551)
-- OBD-II Cable (for car interface)
-- Development Software (STM32CubeIDE)
-
-### How to Build
-
-- Interface the microcontroller with the car’s CAN bus using the transceiver.
-- Capture and decode messages from the car’s OBD-II port.
-- Display diagnostic information like engine status and fault codes.
-
----
-
-## 6. AI-Powered Image Recognition with Embedded Systems
+## 5. AI-Powered Image Recognition with Embedded Systems
 
 ### Components Needed
 
@@ -105,7 +88,7 @@
 
 ---
 
-## 7. Advanced GPS Tracking System
+## 6. Advanced GPS Tracking System
 
 ### Components Needed
 
@@ -122,7 +105,7 @@
 
 ---
 
-## 8. Edge Computing for IoT Data Analysis
+## 7. Edge Computing for IoT Data Analysis
 
 ### Components Needed
 
@@ -139,7 +122,7 @@
 
 ---
 
-## 9. Real-Time Embedded Neural Network Accelerator
+## 8. Real-Time Embedded Neural Network Accelerator
 
 ### Components Needed
 
@@ -156,7 +139,7 @@
 
 ---
 
-## 10. DIY Flipper Zero
+## 9. DIY Flipper Zero
 
 ### Components Needed
 
@@ -176,7 +159,7 @@
 
 ---
 
-## 11. DIY Power Bank Using Old Laptop Battery
+## 10. DIY Power Bank Using Old Laptop Battery
 
 ### Components Needed
 
@@ -195,7 +178,7 @@
 
 ---
 
-## 12. DIY NAS Server with Display and Linux Dev Environment
+## 11. DIY NAS Server with Display and Linux Dev Environment
 
 ### Components Needed
 
@@ -212,6 +195,25 @@
 - Install NAS software like OpenMediaVault or Samba for file sharing.
 - Set up a development environment on Linux using tools like Git, Python, and text editors.
 - Mount the display for monitoring system status or development work.
+
+---
+
+## 12. ML-Enabled Personal Voice Assistant
+
+### Components Needed
+
+- Microcontroller or SBC (e.g., Raspberry Pi, ESP32)
+- Microphone module
+- Speaker or audio output
+- Pre-trained speech recognition and NLP models (e.g., TensorFlow Lite, Vosk)
+- Local storage (SD card or onboard flash)
+
+### How to Build
+
+- Connect the microphone and speaker to your embedded platform.
+- Deploy lightweight, offline-capable speech recognition and natural language processing models.
+- Implement routines to process voice commands, learn user preferences, and execute tasks (e.g., reminders, device control).
+- Ensure all processing is done locally for privacy.
 
 ---
 
