@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/CMakeFiles/bootloader
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/CMakeFiles/bootloader.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/CMakeFiles/bootloader-complete.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/vanshajshah/Documents/Programming/code/Embedded-Systems/1.RTOS_FileManagementServer/ESP-IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
