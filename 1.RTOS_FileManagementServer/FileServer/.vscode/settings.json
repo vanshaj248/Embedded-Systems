@@ -1,11 +1,11 @@
 {
   "C_Cpp.intelliSenseEngine": "default",
-  "idf.espIdfPath": "/Users/vanshajshah/esp/esp-idf-v5.4.2",
+  "idf.espIdfPath": "/Users/vanshaj/esp/esp-idf-v5.4.2",
   "idf.pythonInstallPath": "/opt/homebrew/bin/python3",
   "idf.openOcdConfigs": [
     "board/esp32s3-builtin.cfg"
   ],
-  "idf.toolsPath": "/Users/vanshajshah/.espressif",
+  "idf.toolsPath": "/Users/vanshaj/.espressif",
   "idf.customExtraVars": {
     "IDF_TARGET": "esp32s3"
   }
